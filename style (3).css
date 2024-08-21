@@ -1,0 +1,26 @@
+body{
+
+    color: white;
+    background:hotpink;
+    margin: 0px;
+}
+
+#header{  border-bottom: solid 4px white;
+ padding: 20px;
+ font-size: 20;
+ color:white;
+
+}
+
+section {
+    background: hotpink;
+    padding-bottom:80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+
+    margin-right: 5%;
+}
